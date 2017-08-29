@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ThinhTran1901\\SayHello\\": "src/"
+            "ThinhTran\\SayHello\\": "src/"
         }
     }
 }
